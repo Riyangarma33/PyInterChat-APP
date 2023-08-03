@@ -6,3 +6,6 @@ clear-screen
 validators
 pick
 click_prompt
+isort
+pwinput
+python-dotenv
